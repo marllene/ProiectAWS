@@ -1,0 +1,9 @@
+package entities;
+
+/**
+ * Created by marlen on 09.05.2015.
+ */
+public enum TipCategorieVarsta {
+    CATEGORIE_VARSTA_25, CATEGORIE_VARSTA_25_34, CATEGORIE_VARSTA_35_44, CATEGORIE_VARSTA_45_54, CATEGORIE_VARSTA_55_64,
+    CATEGORIE_VARSTA_65
+}
